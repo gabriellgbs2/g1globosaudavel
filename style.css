@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+
+.content {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 42px;
+}
+
+h2 {
+  color: white;
+  margin: 30px 0;
+}
+
+img {
+  width: 70%;
+}
